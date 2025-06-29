@@ -61,6 +61,7 @@ dependencies {
 
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version")
     implementation("androidx.compose.runtime:runtime-livedata:1.6.0")
+    implementation("androidx.navigation:navigation-compose:2.8.9")
 
 
 }
